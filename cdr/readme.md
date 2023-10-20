@@ -42,7 +42,7 @@ sudo git clone https://github.com/dCOMMICS/grilli.git
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/dCOMMICS/grilli.git
 ```
 
 ### Contact
